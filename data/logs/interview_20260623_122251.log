@@ -1,0 +1,2 @@
+2026-06-23 12:22:52,977 INFO 🚀 MockMentorAI Backend Started
+2026-06-23 12:23:36,907 ERROR LLM API Error: 500 Server Error: Internal Server Error for url: https://chat.ivislabs.in/api/chat/completions

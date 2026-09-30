@@ -1,0 +1,14 @@
+2026-06-23 12:24:20,319 INFO 🚀 MockMentorAI Backend Started
+2026-06-23 12:24:27,512 INFO Generated question: Here is a technical interview question suitable for a Junior Software Engineer:
+
+**Question:** Write a Python function to implement a simple cache system using a dictionary. The function should take two inputs: a key (a string) and a value (an integer). If the key already exists in the cache, return the cached value; otherwise, add the key-value pair to the cache and return the value.
+
+**Assume:** You can use Python 3.x and standard library functions. The function should handle edge cases
+2026-06-23 12:24:43,859 INFO Generated question: Here's a technical interview question for a Junior Software Engineer:
+
+**Question:** 
+"Write a function in Python that takes an integer as input and returns the first non-repeating character from a given string. If no such character exists, return None."
+
+**Note:** Assume the input string only contains ASCII characters.
+
+Please respond with your next action!

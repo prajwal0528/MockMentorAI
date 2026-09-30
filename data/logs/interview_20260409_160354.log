@@ -1,0 +1,4 @@
+2026-04-09 16:03:56,971 INFO 🚀 MockMentorAI Backend Started
+2026-04-09 16:04:10,628 INFO Generated question: Here is a technical interview question for a Junior Software Engineer:
+
+**Question:** Design a simple caching system using a hash table to store key-value pairs. Implement the `get` and `put` methods to retrieve and insert data, respectively. Assume cache size is limited to 100 entries. How would you handle a case where cache is full and new entry needs to be inserted?

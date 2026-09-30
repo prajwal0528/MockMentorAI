@@ -1,0 +1,2 @@
+2026-04-09 16:04:59,402 INFO 🚀 MockMentorAI Backend Started
+2026-04-09 16:05:34,454 ERROR LLM API Error: HTTPSConnectionPool(host='chat.ivislabs.in', port=443): Read timed out. (read timeout=10)

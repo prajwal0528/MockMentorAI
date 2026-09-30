@@ -1,0 +1,37 @@
+2026-04-09 16:00:11,685 INFO 🚀 MockMentorAI Backend Started
+2026-04-09 16:01:03,841 INFO Generated question: Here's a technical interview question for a Junior Software Engineer:
+
+**Write a function to find the first duplicate in an array of integers. If no duplicates exist, return -1.**
+
+Example: Input: [2, 7, 11, 15, 2] Output: 2
+2026-04-09 16:01:59,445 INFO Generated question: Here's a technical interview question suitable for a Junior Software Engineer:
+
+**Question:** 
+
+"Write a function to determine if a given string is a palindrome (reads the same backwards as forwards) without using any built-in string reversal functions. What are the time and space complexities of your solution?"
+2026-04-09 16:02:20,846 INFO Generated question: Here's a technical interview question suitable for a Junior Software Engineer:
+
+**Question:**
+
+"Write a function to validate if a given string is a palindrome. A palindrome is a word, phrase, number, or other sequences of characters that reads the same forward and backward (ignoring spaces, punctuation, and capitalization)."
+
+This question assesses basic coding skills, problem-solving ability, and attention to detail in handling edge cases and requirements.
+2026-04-09 16:02:26,786 INFO Generated question: Here is a technical interview question:
+
+**Write a function to check if an array of integers contains any duplicate values. What approach would you use to optimize this function for large input sizes?**
+
+(Example language: Python, Java, C++)
+2026-04-09 16:02:33,544 INFO Generated question: Here's a technical interview question for a Junior Software Engineer:
+
+**Question:**
+
+Write a function that takes a string of digits as input and returns the number of unique subsequences in the string.
+
+Example:
+Input: "12321"
+Output: 5 (["1", "2", "3", "12", "23"])
+
+**Constraints:** The input string will only contain digits, and it will not be empty.
+2026-04-09 16:03:25,464 INFO Generated question: Here's a technical interview question suitable for a Junior Software Engineer:
+
+**Implement a simple cache system using a hash table in Python. The cache should have a maximum size of 3 elements. When the cache is full and a new item needs to be added, remove the least recently used (LRU) element first. Provide example use cases and explain your reasoning behind the design.**

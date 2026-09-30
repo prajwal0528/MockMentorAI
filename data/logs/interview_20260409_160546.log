@@ -1,0 +1,18 @@
+2026-04-09 16:05:49,024 INFO 🚀 MockMentorAI Backend Started
+2026-04-09 16:08:45,257 INFO Generated question: Here is a technical interview question suitable for a Junior Software Engineer:
+
+**Design a simple queue data structure using only a linked list, where each node contains an integer value. Implement the following methods:**
+
+*   `enqueue(int value)`: adds a new element to the end of the queue
+*   `dequeue()`: removes and returns the front element from the queue (if it exists)
+*   `peek()`: returns the front element from the queue without removing it (if it exists)
+2026-04-09 16:19:20,865 INFO Generated question: Here is a technical interview question suitable for a Junior Software Engineer:
+
+**Question:**
+
+Design a simple cache system that stores integers (0-100) and provides the following methods:
+1. `put(key, value)`: inserts a key-value pair into the cache
+2. `get(key)`: retrieves the value associated with the given key
+3. `remove(key)`: removes the key from the cache
+
+**Constraints:** Use a hash table data structure to implement the cache. The cache should
